@@ -1,5 +1,15 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/japal/universe
 	shallow = true
 	branch = HEAD
+[submodule "zCompositions"]
+	path = zCompositions
+	url = https://github.com/Japal/zCompositions
+	shallow = true
+	registered = true
+[submodule "MALDIrppa"]
+	path = MALDIrppa
+	url = https://github.com/Japal/MALDIrppa
+	shallow = true
+	registered = true
