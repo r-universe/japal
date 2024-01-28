@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/japal/universe
+	url = https://github.com/japal/japal.r-universe.dev
 	branch = HEAD
 [submodule "MALDIrppa"]
 	path = MALDIrppa
